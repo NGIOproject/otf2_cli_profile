@@ -1,4 +1,7 @@
 # otf2_cli_profile
+
+This software was developed as part of the EC H2020 funded project NEXTGenIO (Project ID: 671951) http://www.nextgenio.eu.
+
 ## a command-line tool to read OTF and OTF2 trace files and convert them to profiles
 
 ## Output formats
